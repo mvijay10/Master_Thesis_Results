@@ -1,0 +1,20 @@
+Daily Charging Totals for the Whole System:
+===========================================
+Date: 2024-10-07
+Total Charging Cost: 23.23 EUR
+Total Charging Power: 156.15 kWh
+-------------------------------------------
+Date: 2024-10-08
+Total Charging Cost: 0.00 EUR
+Total Charging Power: 0.00 kWh
+-------------------------------------------
+
+Overall Totals for the Entire Period:
+Total Charging Cost: 23.23 EUR
+Total Charging Power: 156.15 kWh
+
+Mean and Standard Deviation of Power per Day:
+                 mean        std
+timestamp                       
+2024-10-07  75.694317  66.905418
+2024-10-08  10.589444   0.020806

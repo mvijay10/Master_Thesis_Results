@@ -1,0 +1,49 @@
+Daily Charging Totals for the Whole System LB+PB:
+===========================================
+Date: 2024-10-07
+Total Charging Cost: 21.22
+Total Charging Power: 143.44 kWh
+-------------------------------------------
+Date: 2024-10-08
+Total Charging Cost: 22.37
+Total Charging Power: 149.75 kWh
+-------------------------------------------
+Date: 2024-10-09
+Total Charging Cost: 23.02
+Total Charging Power: 152.55 kWh
+-------------------------------------------
+Date: 2024-10-10
+Total Charging Cost: 23.00
+Total Charging Power: 154.55 kWh
+-------------------------------------------
+Date: 2024-10-11
+Total Charging Cost: 21.92
+Total Charging Power: 154.55 kWh
+-------------------------------------------
+Date: 2024-10-12
+Total Charging Cost: 21.29
+Total Charging Power: 154.55 kWh
+-------------------------------------------
+Date: 2024-10-13
+Total Charging Cost: 21.07
+Total Charging Power: 154.55 kWh
+-------------------------------------------
+Date: 2024-10-14
+Total Charging Cost: 0.00
+Total Charging Power: 0.00 kWh
+-------------------------------------------
+
+Overall Totals for the Entire Period:
+Total Charging Cost: 153.89
+Total Charging Power: 1063.95 kWh
+                 mean        std
+Timestamp                       
+2024-10-07  72.057797  69.218499
+2024-10-08  72.761395  68.670475
+2024-10-09  72.878053  67.484826
+2024-10-10  72.961506  67.491266
+2024-10-11  72.961569  68.037221
+2024-10-12  72.961412  68.459670
+2024-10-13  72.961333  68.613505
+2024-10-14  10.570008   0.017328
+end of simulation
